@@ -76,6 +76,11 @@ nav a:hover{
 .online-dot {
     width: 9px;
     height: 9px;
-    background: #39d6a0;
+    background: #2ed89d;
     border-radius: 50%;
+}
+#clock{
+    color: white;
+    margin-left: 10px;
+    font-family: monospace;
 }
